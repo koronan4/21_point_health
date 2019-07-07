@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "283149658462",
+    "firebase_url": "https://pointhealth-340f2.firebaseio.com",
+    "project_id": "pointhealth-340f2",
+    "storage_bucket": "pointhealth-340f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283149658462:android:163744d33e2693b0",
+        "android_client_info": {
+          "package_name": "com.example.a21_point_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283149658462-hrbv2avtp9tm5h03u36oae9b1snqru0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a21_point_health",
+            "certificate_hash": "b248e2a349ba02302987ba538c0db03fbf85e29d"
+          }
+        },
+        {
+          "client_id": "283149658462-laqvf4e9an2o941crdv6mq92km6r6et8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCLUIi588LSlGnMj_mKYgJ9DR7kYSVSqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283149658462-laqvf4e9an2o941crdv6mq92km6r6et8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

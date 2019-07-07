@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "119919508602",
+    "firebase_url": "https://pointhealth-50c61.firebaseio.com",
+    "project_id": "pointhealth-50c61",
+    "storage_bucket": "pointhealth-50c61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119919508602:android:163744d33e2693b0",
+        "android_client_info": {
+          "package_name": "com.example.a21_point_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119919508602-kjs3l6b07c5pns9hecdicqpbuaotc1n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArUyyzvAO5eazOckrRWP3utlJ-ndVF4Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119919508602-kjs3l6b07c5pns9hecdicqpbuaotc1n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
